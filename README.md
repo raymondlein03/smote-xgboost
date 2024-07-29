@@ -1,0 +1,1 @@
+Penelitian ini dilakukan untuk melakukan pengembangan model klasifikasi yang efektif dan efisien untuk memprediksi calon penerima beasiswa di Universitas Muhammadiyah Semarang menggunakan metode Adaptive Synthetic Sampling (ADASYN) - Extreme Gradient Boosting (XGBoost).
